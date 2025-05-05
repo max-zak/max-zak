@@ -46,7 +46,7 @@ I conceived, designed, and built from the ground up to help users craft effectiv
 *   **AI Integration:** Leverages the **Vercel AI SDK (@ai-sdk)** to seamlessly integrate and stream responses from multiple Large Language Models (LLMs) like **OpenAI (GPT models), Google (Gemini), Anthropic (Claude), DeepSeek,** etc., providing flexibility and robustness. Focus on effective prompt engineering for high-quality text generation and editing features (summarize, detail, change tone).
 *   **Services & Deployment:** Integrates **Stripe API** for secure user authentication and subscription payments. Uses privacy-friendly analytics (**Plausible/Umami**). Deployed on modern cloud platforms. *(Note: Repo is private)*.
 
-*(This project demonstrates my ability to build a complete, functional web application using modern technologies and integrate complex third-party APIs like AI models and payment gateways.)*
+
 ---
 
 ### 📫 Let's Connect:
