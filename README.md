@@ -1,18 +1,8 @@
 
-### Hi there, I'm Maksim 👋
+### Hi there, I'm Maxim 👋
 
 
 Digital Marketer (SEO background) transitioning into Full-Stack Development (TypeScript, React) & AI Engineering 🤖. Passionate about building practical, AI-driven web applications. Based in Germany 🇩🇪 and actively seeking development-focused opportunities.
-
-
----
-
-### 🚀 Featured Project: [KIBewerbungsSchreiben](https://kibewerbungsschreiben.de/) 📄✨
-
-Check it out live: **[https://kibewerbungsschreiben.de/](https://kibewerbungsschreiben.de/)**
-
-This is a **live MicroSaaS application Marketer (SEO background) transitioning into Full-Stack Development (TypeScript, React) & AI Engineering 🤖. Passionate about building practical, AI-driven web applications. Based in Germany 🇩🇪 and actively seeking development-focused opportunities.
-
 
 ---
 
@@ -57,18 +47,6 @@ I conceived, designed, and built from the ground up to help users craft effectiv
 *   **Services & Deployment:** Integrates **Stripe API** for secure user authentication and subscription payments. Uses privacy-friendly analytics (**Plausible/Umami**). Deployed on modern cloud platforms. *(Note: Repo is private)*.
 
 *(This project demonstrates my ability to build a complete, functional web application using modern technologies and integrate complex third-party APIs like AI models and payment gateways.)*
-
----
-
-### 🛠️ My Core Tech Stack:
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
 ---
 
 ### 📫 Let's Connect:
