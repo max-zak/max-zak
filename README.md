@@ -53,6 +53,6 @@ I conceived, designed, and built from the ground up to help users craft effectiv
 
 I'm actively looking for opportunities where I can contribute my blend of marketing understanding and growing development skills.
 
-*   **LinkedIn:** [https://www.linkedin.com/in/maxim-zakharovv](https://www.linkedin.com/in/maxim-zakharovv)
+*   **LinkedIn:** [https://www.linkedin.com/in/max-zak](https://www.linkedin.com/in/max-zak)
 
 ---
